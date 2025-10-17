@@ -9,7 +9,7 @@ I’m a student currently learning *Object-Oriented Programming* in Java and bui
 ![My Photo](MyPhoto.jpg)
 
 <p align="center">
-  <img src="  " alt="My Picture" width="400" hieght="400"/>
+  <img src="  " alt="My Photo.jpg" width="400" hieght="400"/>
 </p>.
 ---
 ## 💡 AREA OF INTEREST & PROGRAMMING LANGUAGES
