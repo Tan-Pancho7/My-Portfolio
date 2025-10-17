@@ -37,8 +37,6 @@ Here are some of my projects 🚀:
 
 ## 🎉 FUN FACTS ABOUT ME
 - 🏀 I love playing basketball  
-- 🎌 I enjoy watching anime  
-- 💻 I like solving coding problems  
 - 🎵 I listen to music while coding  
 
 ---
@@ -50,6 +48,4 @@ Let’s connect! 🌍
 
 ---
 
-theme: jekyll-theme-cayman
-title: "My 7OOP Lab Portfolio"
-description: "This is my personal portfolio for 7OOP Lab Task"
+
