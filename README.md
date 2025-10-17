@@ -6,11 +6,9 @@ Hello! I’m *Tan Pancho* 👋
 I’m a student currently learning *Object-Oriented Programming* in Java and building my skills in software development.  
 
 📸 Here’s a picture of me:  
-![My Photo](MyPhoto.jpg)
-
 
 <p align="center">
- <img src="assets/photo.jpg" alt="My Profile Picture" width="200">
+ <img src="assets/My Photo.jpg" alt="My Profile Picture" width="200">
 ---
 ## 💡 AREA OF INTEREST & PROGRAMMING LANGUAGES
 ✨ My interests include:  
