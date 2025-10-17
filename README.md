@@ -10,9 +10,7 @@ I’m a student currently learning *Object-Oriented Programming* in Java and bui
 
 
 <p align="center">
-  <img src="  " alt="My Photo.jpg" width="400" hieght="400"/>
-</p>.
-
+ <img src="assets/photo.jpg" alt="My Profile Picture" width="200">
 ---
 ## 💡 AREA OF INTEREST & PROGRAMMING LANGUAGES
 ✨ My interests include:  
