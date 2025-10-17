@@ -2,7 +2,7 @@
 ---
 
 ## 👤 ABOUT ME
-Hello! I’m *Your Name* 👋  
+Hello! I’m *Tan Pancho* 👋  
 I’m a student currently learning *Object-Oriented Programming* in Java and building my skills in software development.  
 
 📸 Here’s a picture of me:  
@@ -21,8 +21,8 @@ I’m a student currently learning *Object-Oriented Programming* in Java and bui
 🖥️ Programming Languages I know:  
 - ☕ Java  
 - 🐍 Python  
-- 💻 C++  
-- ⚡ JavaScript  
+  
+    
 
 ---
 
@@ -45,7 +45,6 @@ Here are some of my projects 🚀:
 ## 📱 CONTACTS
 Let’s connect! 🌍  
 - 👍 [Facebook](https://facebook.com/yourusername)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
 - 🐙 [GitHub](https://github.com/yourusername)  
 
 ---
