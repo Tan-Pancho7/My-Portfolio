@@ -7,6 +7,7 @@ I’m a student currently learning *Object-Oriented Programming* in Java and bui
 
 📸 Here’s a picture of me:  
 ![My Photo]My Photo.jpg
+
 <p align="center">
   <img src="  " alt="My Picture" width="400" hieght="400"/>
 </p>.
