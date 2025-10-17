@@ -7,9 +7,10 @@ I’m a student currently learning *Object-Oriented Programming* in Java and bui
 
 📸 Here’s a picture of me:  
 
-<p align="center">
- <img src="assets/My Photo.jpg" alt="My Profile Picture" width="200">
----
+<div style="text-align: center;">
+  <img src="assets/my-photo.jpg" alt="My Profile Picture" width="200" height="200">
+</div>
+
 ## 💡 AREA OF INTEREST & PROGRAMMING LANGUAGES
 ✨ My interests include:  
 - 🌐 Web Development  
