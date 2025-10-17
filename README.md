@@ -28,8 +28,6 @@ I’m a student currently learning *Object-Oriented Programming* in Java and bui
 
 ## 📂 PROJECT LINKS
 Here are some of my projects 🚀:  
-- 🔗 [My Java Project](https://github.com/yourusername/java-project)  
-- 🔗 [My Python Project](https://github.com/yourusername/python-project)  
 - 🔗 [My 7OOP Lab Task](https://github.com/yourusername/7OOP-Lab-Portfolio)  
 
 ---
