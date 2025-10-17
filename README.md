@@ -6,7 +6,7 @@ Hello! I’m *Your Name* 👋
 I’m a student currently learning *Object-Oriented Programming* in Java and building my skills in software development.  
 
 📸 Here’s a picture of me:  
-![My Photo](photo.jpg)  
+
 <p align="center">
   <img src="  " alt="My Picture" width="400" hieght="400"/>
 </p>.
