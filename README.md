@@ -1,8 +1,4 @@
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername/7OOP-Lab-Portfolio?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/7OOP-Lab-Portfolio?style=social)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/yourusername/7OOP-Lab-Portfolio)
-
 ---
 
 ## 👤 ABOUT ME
