@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #f9f6ff;
+  color: #333;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 10%;
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  align-items: center;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 24px;
+  color: #8c52ff;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px 10%;
+  gap: 50px;
+}
+
+.hero-text {
+  flex: 1;
+}
+
+.greeting {
+  letter-spacing: 2px;
+  color: #888;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.hero-text h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.hero-text strong {
+  font-weight: 700;
+}
+
+.description {
+  font-size: 16px;
+  color: #666;
+  max-width: 500px;
+  margin-bottom: 30px;
+}
+
+.buttons {
+  display: flex;
+  gap: 15px;
+}
+
+.btn {
+  padding: 12px 25px;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  display: inline-block;
+  cursor: pointer;
+  user-select: none;
+}
+
+.btn.primary {
+  background-color: #8c52ff;
+  color: white;
+}
+
+.btn.primary:hover {
+  background-color: #732dff;
+}
+
+.btn.secondary {
+  background-color: #d9b3ff;
+  color: #333;
+}
+
+.btn.secondary:hover {
+  background-color: #b17aff;
+}
+
+.hero-image img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
