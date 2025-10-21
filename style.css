@@ -123,4 +123,68 @@ footer h2 {
 
 .social-icons a:hover {
   color: #007acc;
+.labs-section {
+  background: #111827;
+  color: #ffffff;
+  padding: 50px 30px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.labs-section h2 {
+  font-size: 1.8em;
+  margin-bottom: 20px;
+}
+
+.languages {
+  margin-bottom: 30px;
+}
+
+.lang-btn {
+  display: inline-block;
+  padding: 8px 16px;
+  margin-right: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  color: #fff;
+  font-size: 0.9em;
+}
+
+.python {
+  background-color: #306998;
+}
+
+.c {
+  background-color: #004482;
+}
+
+.java {
+  background-color: #f89820;
+}
+
+.lab-category {
+  margin-top: 40px;
+}
+
+.lab-category h3 {
+  font-size: 1.5em;
+  margin-bottom: 15px;
+}
+
+.lab-category ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.lab-category li {
+  font-size: 1em;
+  margin-bottom: 8px;
+}
+
+.lab-category a {
+  color: #4ea1f3;
+  text-decoration: underline;
+}
+
+.lab-category a:hover {
+  color: #81c0ff;
 }
