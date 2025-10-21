@@ -14,6 +14,62 @@ body {
   background: linear-gradient(135deg, #e0e0e0, #cfcfcf);
   min-height: 80vh;
 }
+/* Header Section */
+.header-section {
+  width: 90%;
+  max-width: 1000px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 15px;
+  box-shadow: 0 6px 30px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin: 40px auto 20px;
+  padding: 30px 20px;
+}
+
+.header-section h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.header-section p {
+  font-size: 1.1rem;
+  color: #444;
+  margin-bottom: 20px;
+}
+
+.info-blocks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 20px;
+}
+
+.info-box {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 10px;
+  padding: 20px;
+  min-width: 200px;
+  max-width: 300px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+.info-box h2 {
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+
+.info-box ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.info-box li {
+  text-align: left;
+  margin-bottom: 8px;
+  font-size: 0.95rem;
+}
 
 .image-container {
   flex: 1 1 300px;
