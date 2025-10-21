@@ -20,7 +20,7 @@ body {
   text-align: center;
 }
 
-.image-container img {
+.image-container img { 
   width: 300px;
   height: auto;
   border-radius: 10px;
