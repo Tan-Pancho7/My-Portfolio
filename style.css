@@ -242,13 +242,13 @@ footer h2 {
 .social-icons a {
   margin: 0 10px;
   color: #333; /* facebook Black, instagram, email */
-  font-size: 24px;
+  font-size: 2rem;
   text-decoration: none;
-  transition: color 0.3s;
+  transition: color 0.3s ease;
 }
 
 .social-icons a:hover {
-  color: #007acc;
+  color: #0077ff;
 .labs-section {
   background: #111827;
   color: #ffffff;
