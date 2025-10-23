@@ -1,23 +1,12 @@
-/* Geometric background */
-html, body { height: 100%; margin: 0; }
 
-.bg {
-  position: fixed;
-  inset: 0;
-  overflow: hidden;
-  background: linear-gradient(90deg,#f6f6f6 0%, #e6e6e6 40%, #d9d9d9 60%, #f7f7f7 100%);
-}
-
-/* shape styles */
-.shape { ... }
-/* etc. */
 body {
   margin: 0;
   font-family: 'Roboto Mono', monospace;
-  background: linear-gradient(135deg, #f0f0f0, #bfbfbf);
+  background: transparent;
   color: #333;
+  position: relative;
+  z-index: 1;
 }
-
 .about-section {
   display: flex;
   flex-wrap: wrap;
@@ -200,4 +189,12 @@ footer h2 {
 
 .lab-category a:hover {
   color: #81c0ff;
+}
+body {
+  margin: 0;
+  font-family: 'Roboto Mono', monospace;
+  background: transparent;
+  color: #333;
+  position: relative;
+  z-index: 1;
 }
