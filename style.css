@@ -190,11 +190,11 @@ footer h2 {
 .lab-category a:hover {
   color: #81c0ff;
 }
-body {
-  margin: 0;
-  font-family: 'Roboto Mono', monospace;
-  background: transparent;
-  color: #333;
+L/* Ensure all sections appear above the geometric background */
+.header-section,
+.about-section,
+.labs-section,
+footer {
   position: relative;
-  z-index: 1;
+  z-index: 2;
 }
