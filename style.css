@@ -315,5 +315,12 @@ footer h2 {
 .lab-category a:hover {
   color: #81c0ff;
 }
-
+/* Make sure all main sections appear ABOVE the background */
+.header-section,
+.about-section,
+.labs-section,
+footer {
+  position: relative;
+  z-index: 2;
+}
 
