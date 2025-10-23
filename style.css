@@ -315,8 +315,7 @@ footer h2 {
   color: #81c0ff;
 }
 
-L/* Ensure all sections appear above the geometric background */
-  
+/* Ensure all sections appear above the geometric background */
 .header-section,
 .about-section,
 .labs-section,
