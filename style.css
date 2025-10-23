@@ -322,7 +322,7 @@ footer h2 {
 .image-section,
 footer {
   position: relative;
-  z-index: 3; /* slightly higher so all content is visible */
+  z-index: 2; /* slightly higher so all content is visible */
   background: rgba(255, 255, 255, 0.8); /* light transparent background for clarity */
   backdrop-filter: blur(10px); /* makes text readable while keeping geometric look */
 }
