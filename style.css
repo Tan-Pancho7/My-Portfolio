@@ -314,7 +314,7 @@ footer h2 {
 .lab-category a:hover {
   color: #81c0ff;
 }
-/* ✅ Make sure all content stays visible above the geometric background */
+/* Ensure all sections appear above the geometric background */
 .header-section,
 .about-section,
 .labs-section,
@@ -322,9 +322,10 @@ footer h2 {
 .image-section,
 footer {
   position: relative;
-  z-index: 2;
+  z-index: 3; /* slightly higher so all content is visible */
+  background: rgba(255, 255, 255, 0.8); /* light transparent background for clarity */
+  backdrop-filter: blur(10px); /* makes text readable while keeping geometric look */
 }
-
 
 
 
