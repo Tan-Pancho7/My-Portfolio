@@ -121,13 +121,7 @@ html,body { height:100%; margin:0; }
   .s3 { opacity:0.95; }
   .divider::after { display:none; }
 }
-body {
-  margin: 0;
-  font-family: 'Roboto Mono', monospace;
-  background: transparent;
-  color: #333;
-  position: relative;
-  z-index: 1;
+
 }
 .about-section {
   display: flex;
