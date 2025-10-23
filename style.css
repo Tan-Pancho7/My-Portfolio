@@ -306,11 +306,4 @@ footer h2 {
 .lab-category a:hover {
   color: #81c0ff;
 }
-L/* Ensure all sections appear above the geometric background */
-.header-section,
-.about-section,
-.labs-section,
-footer {
-  position: relative;
-  z-index: 2;
-}
+
