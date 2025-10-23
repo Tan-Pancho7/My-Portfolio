@@ -314,25 +314,7 @@ footer h2 {
 .lab-category a:hover {
   color: #81c0ff;
 }
-/* ✅ Contact Section (bottom area) */
-.contact-section {
-  background: rgba(255, 255, 255, 0.2);   /* <— slightly transparent */
-  color: #111;
-  text-align: center;
-  padding: 60px 20px;
-  backdrop-filter: blur(8px);
-  border-top: 2px solid rgba(0, 0, 0, 0.1);
-}
 
-/* ✅ Image Section (bottom gallery area) */
-.image-section {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 40px;
-  background: rgba(255, 255, 255, 0.1);   /* <— lighter transparency */
-  backdrop-filter: blur(6px);
-}
 L/* Ensure all sections appear above the geometric background */
   
 .header-section,
